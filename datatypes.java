@@ -1,3 +1,5 @@
+
+public class datatypes {
 void main(){
     System.out.println("hello aadi");
     IO.println("hello buddy");
@@ -12,4 +14,5 @@ void main(){
     // synatx - Scanner scan = new Scanner(System.in);
     // scan = object name can be anything
     // 3) we can use object to take input from user in string only so it must be typecast into required data type
+}
 }
