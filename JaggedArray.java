@@ -4,7 +4,7 @@ class JaggedArray {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-         System.out.println("The program is coded by Aditya Singh, 2400320100094");
+         System.out.println("The program is coded by Nishant Singh, 2500320109012");
 
         System.out.print("Enter number of rows: ");
         int rows = sc.nextInt();
