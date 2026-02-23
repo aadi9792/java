@@ -1,0 +1,2 @@
+
+tetsing of file write operation using Fileoutput tester
