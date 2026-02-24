@@ -12,6 +12,7 @@ public class DataOutputStreamTester {
             dis.writeFloat(250000.50f);
             dis.writeUTF("Aditya Singh");
             dis.close();
+            System.out.println("File has been written");
         } catch (Exception e) {
             // TODO: handle exception
             System.out.println(e.getMessage());
